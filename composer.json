@@ -16,6 +16,11 @@
             "RestfulAdmin\\": "src/"
         }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
     "require": {
         "slim/slim": "^3.0",
         "myclabs/php-enum": "^1.6",
