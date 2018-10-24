@@ -1,5 +1,6 @@
 {
     "name": "gmenti/restful-admin",
+    "description": "Simple framework for creating REST APIs quickly and easily.",
     "authors": [
         {
             "name": "Giuseppe Menti",
