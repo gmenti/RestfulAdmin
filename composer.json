@@ -1,6 +1,7 @@
 {
     "name": "gmenti/restful-admin",
     "description": "Simple framework for creating REST APIs quickly and easily.",
+    "license": "ISC",
     "authors": [
         {
             "name": "Giuseppe Menti",
@@ -22,6 +23,7 @@
         }
     },
     "require": {
+        "php": ">=5.3.9",
         "slim/slim": "^3.0",
         "myclabs/php-enum": "^1.6",
         "mongodb/mongodb": "^1.4",
